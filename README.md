@@ -8,5 +8,6 @@
 - [ubiquityrobotics](https://ubiquityrobotics.com/)
 - [Nybble](https://www.petoi.com/)
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
-- [Poppy project](https://www.poppy-project.org/en/)
+- [Poppy Project](https://www.poppy-project.org/en/)
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot)
+- [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
