@@ -11,3 +11,7 @@
 - [Poppy Project](https://www.poppy-project.org/en/)
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot)
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
+
+## [License](#awesome-robotics-libraries)
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
