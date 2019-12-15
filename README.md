@@ -15,6 +15,12 @@
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
 
+## Hardware Development Communities
+
+- [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/)
+- [hackster.io](https://www.hackster.io/)
+- [adafruit](https://www.adafruit.com/)
+
 ## [Related Awesome Lists](#awesome-robotics-libraries)
 
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
