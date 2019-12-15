@@ -34,8 +34,9 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 - [RosHub](https://roshub.io/)
 - [Freedom robotics](https://www.freedomrobotics.ai/)
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/)
-- [SEMIO](https://semio.ai/)
+- [balena](https://www.balena.io/)
 - [AWS RoboMaker](https://aws.amazon.com/robomaker/)
+- [SEMIO](https://semio.ai/)
 
 ## Simulators
 
