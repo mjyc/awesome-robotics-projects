@@ -26,6 +26,25 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [hackster.io](https://www.hackster.io/)
 - [adafruit](https://www.adafruit.com/)
 
+## Cloud Robotics
+
+- [Formant](https://formant.io/)
+- [RosHub](https://roshub.io/)
+- [Freedom robotics](https://www.freedomrobotics.ai/)
+- [Rapyuta Robotics](https://www.rapyuta-robotics.com/)
+- [SEMIO](https://semio.ai/)
+- [AWS RoboMaker](https://aws.amazon.com/robomaker/)
+
+## Simulators
+
+- [Gazebo](http://gazebosim.org/)
+- [CARLA](http://carla.org/)
+- [MORSE](http://morse-simulator.github.io/)
+- [Isaac](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
+- [Gibson](http://gibsonenv.stanford.edu/)
+- [Webots](http://www.cyberbotics.com/)
+- [AI Habitat](https://aihabitat.org/)
+
 ## Related Awesome Lists
 
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
