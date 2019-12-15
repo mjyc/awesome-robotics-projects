@@ -21,7 +21,7 @@
 - [hackster.io](https://www.hackster.io/)
 - [adafruit](https://www.adafruit.com/)
 
-## [Related Awesome Lists](#awesome-robotics-libraries)
+## Related Awesome Lists
 
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics) (ahundt)
@@ -31,6 +31,6 @@
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 
-## [License](#awesome-robotics-libraries)
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
