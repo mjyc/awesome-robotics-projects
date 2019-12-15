@@ -7,13 +7,18 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) - Demonstration robot for learning principles of real-time control
+- [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
+- [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Open-source quadruped robot
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - Open-source 6-wheel rover based on the rovers on Mars
 - [MuSHR](https://mushr.io/) - Affordable, open-source robotic race car
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
+- [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
+- [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
+- [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 
 ## Hardware Development Communities
 
