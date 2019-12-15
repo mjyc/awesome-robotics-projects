@@ -1,6 +1,6 @@
 # Awesome Robotics Project
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A list of open-source, affordable, less-known, or visionary robotics projects.
 
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
