@@ -19,6 +19,7 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
+- [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 
