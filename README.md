@@ -22,6 +22,7 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
+- [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 
 ## Hardware Development Communities
 
