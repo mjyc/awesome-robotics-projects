@@ -26,11 +26,11 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 
 ## Hardware Development Communities
 
-- [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/)
-- [hackster.io](https://www.hackster.io/)
-- [adafruit](https://www.adafruit.com/)
+- [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's largest collaborative hardware development community."
+- [hackster.io](https://www.hackster.io/) - "Hackster is a community dedicated to learning hardware, from beginner to pro."
+- [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
 
-## Cloud Robotics
+## Cloud Robotics Companies
 
 - [Formant](https://formant.io/)
 - [RosHub](https://roshub.io/)
@@ -42,13 +42,13 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 
 ## Simulators
 
-- [Gazebo](http://gazebosim.org/)
-- [CARLA](http://carla.org/)
-- [MORSE](http://morse-simulator.github.io/)
-- [Isaac](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
-- [Gibson](http://gibsonenv.stanford.edu/)
-- [Webots](http://www.cyberbotics.com/)
-- [AI Habitat](https://aihabitat.org/)
+- [Gazebo](http://gazebosim.org/) - Gazebo is an open-source 3D robotics simulator
+- [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research
+- [MORSE](http://morse-simulator.github.io/) - The open-source simulator for academic robotics
+- [Isaac](https://developer.nvidia.com/isaac-sim) - Simulate, test and iterate virtual robots in a high fidelity 3D environment
+- [Gibson](http://gibsonenv.stanford.edu/) - Gibson is a perceptual and physics Simulator
+- [Webots](http://www.cyberbotics.com/) - Open source robot simulator
+- [AI Habitat](https://aihabitat.org/) - AI Habitat enables training of embodied AI agents in a highly photorealistic & efficient 3D simulator
 
 ## Related Awesome Lists
 
