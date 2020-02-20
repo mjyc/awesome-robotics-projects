@@ -32,13 +32,14 @@ Feel free to leave your comments [here](https://hackmd.io/Z-VccsJbQd2AOn0fM9DLzg
 
 ## Cloud Robotics Companies
 
-- [Formant](https://formant.io/)
-- [RosHub](https://roshub.io/)
-- [Freedom robotics](https://www.freedomrobotics.ai/)
-- [Rapyuta Robotics](https://www.rapyuta-robotics.com/)
-- [balena](https://www.balena.io/)
-- [AWS RoboMaker](https://aws.amazon.com/robomaker/)
-- [SEMIO](https://semio.ai/)
+- [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
+- [RosHub](https://roshub.io/) - Manage one robot or entire fleets
+- [Freedom robotics](https://www.freedomrobotics.ai/) - POWERFUL CONTROL AND MONITORING FOR ROBOTS.
+- [Rapyuta Robotics](https://www.rapyuta-robotics.com/) - We make robots attainable and useful
+- [balena](https://www.balena.io/) - The infrastructure you need to develop, deploy, and manage fleets of connected devices at scale
+- [AWS RoboMaker](https://aws.amazon.com/robomaker/) - Simulate and deploy robotic applications at cloud scale
+- [SEMIO](https://semio.ai/) - bringing robots to life
+- [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 
 ## Simulators
 
