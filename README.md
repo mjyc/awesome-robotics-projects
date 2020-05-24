@@ -21,6 +21,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
+- [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
 
 ## Hardware Development Communities
 
