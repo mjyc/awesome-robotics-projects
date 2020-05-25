@@ -40,6 +40,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [AWS RoboMaker](https://aws.amazon.com/robomaker/) - Simulate and deploy robotic applications at cloud scale
 - [SEMIO](https://semio.ai/) - bringing robots to life
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
+- [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 
 ## Simulators
 
