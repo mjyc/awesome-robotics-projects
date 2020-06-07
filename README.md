@@ -57,10 +57,10 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics) (ahundt)
 - [Awesome Human Robot Interaction](https://github.com/Po-Jen/awesome-human-robot-interaction)
-- [Awesome Robotics Libraries
-  ](https://github.com/jslee02/awesome-robotics-libraries)
+- [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
+- [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
 
 ## License
 
