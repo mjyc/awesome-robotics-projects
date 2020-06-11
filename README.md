@@ -44,7 +44,6 @@ com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's larg
 - [SEMIO](https://semio.ai/) - bringing robots to life
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
-- []
 
 ## Simulators
 
