@@ -23,17 +23,15 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 - [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
-- [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 
 ## Hardware Development Communities
 
-- [hackaday](https://hackaday
-com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's largest collaborative hardware development community."
+- [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's largest collaborative hardware development community."
 - [hackster.io](https://www.hackster.io/) - "Hackster is a community dedicated to learning hardware, from beginner to pro."
 - [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
 - [instructables](https://www.instructables.com/) - "Instructables is a community for people who like to make things."
 
-## Cloud Robotics Companies
+## Cloud Robotics
 
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [RosHub](https://roshub.io/) - Manage one robot or entire fleets
@@ -44,6 +42,7 @@ com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's larg
 - [SEMIO](https://semio.ai/) - bringing robots to life
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
+- [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 
 ## Simulators
 
