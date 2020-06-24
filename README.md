@@ -24,6 +24,12 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 
+## Open-Source SDK
+
+- Anki Cozmo - [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
+- [temi SDK](https://github.com/robotemi/sdk)
+- [Spot SDK](https://github.com/boston-dynamics/spot-sdk)
+
 ## Hardware Development Communities
 
 - [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's largest collaborative hardware development community."
