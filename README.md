@@ -62,6 +62,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 
 ## Related Awesome Lists
 
+- [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics)
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics) (ahundt)
 - [Awesome Human Robot Interaction](https://github.com/Po-Jen/awesome-human-robot-interaction)
