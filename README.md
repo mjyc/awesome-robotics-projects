@@ -23,6 +23,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 - [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
+- [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 
 ## Open-Source SDK
 
