@@ -25,6 +25,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 - [OpenBot](https://www.openbot.org/) - Turning Smartphones into Robots
+- [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
 
 ## Open-Source SDK
 
