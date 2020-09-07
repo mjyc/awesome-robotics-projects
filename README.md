@@ -26,6 +26,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 - [OpenBot](https://www.openbot.org/) - Turning Smartphones into Robots
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
+- [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
+- [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
 
 ## Open-Source SDK
 
@@ -62,6 +64,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Gibson](http://gibsonenv.stanford.edu/) - Gibson is a perceptual and physics Simulator
 - [Webots](http://www.cyberbotics.com/) - Open source robot simulator
 - [AI Habitat](https://aihabitat.org/) - AI Habitat enables training of embodied AI agents in a highly photorealistic & efficient 3D simulator
+- [Flightmare](https://uzh-rpg.github.io/flightmare/) - A Flexible Quadrotor Simulator
 
 ## Related Awesome Lists
 
