@@ -55,7 +55,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 - [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 
-## Simulators
+## Physically Accurate or Photo-Realistic Simulators
 
 - [Gazebo](http://gazebosim.org/) - Gazebo is an open-source 3D robotics simulator
 - [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research
