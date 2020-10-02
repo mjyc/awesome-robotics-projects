@@ -35,6 +35,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - Anki Cozmo - [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
 - [temi SDK](https://github.com/robotemi/sdk)
 - [Spot SDK](https://github.com/boston-dynamics/spot-sdk)
+- [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 
 ## Hardware Development Communities
 
