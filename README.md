@@ -56,7 +56,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 - [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
-- [scale](scale.com/) - The Data Platform for AI
+- [scale](https://scale.com/) - The Data Platform for AI
+- [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 
 ## Physically Accurate or Photo-Realistic Simulators
 
