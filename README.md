@@ -44,7 +44,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
 - [instructables](https://www.instructables.com/) - "Instructables is a community for people who like to make things."
 
-## Cloud Robotics
+## Cloud Robotics, Robotics Platforms
 
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [RosHub](https://roshub.io/) - Manage one robot or entire fleets
@@ -58,6 +58,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 - [scale](https://scale.com/) - The Data Platform for AI
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
+- [Autoware.AI](https://www.autoware.ai/) -  the world's first "All-in-One" open-source software for autonomous driving technology
 
 ## Physically Accurate or Photo-Realistic Simulators
 
