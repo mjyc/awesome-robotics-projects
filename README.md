@@ -29,6 +29,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
 - [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
+- [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research
 
 ## Open-Source SDK
 
