@@ -28,15 +28,16 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
 - [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
 - [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
-- [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research
+- [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
+- [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
+- [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 
 ## Open-Source SDK
 
 - Anki Cozmo - [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
 - [temi SDK](https://github.com/robotemi/sdk)
 - [Spot SDK](https://github.com/boston-dynamics/spot-sdk)
-- [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 
 ## Hardware Development Communities
 
