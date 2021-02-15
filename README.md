@@ -32,6 +32,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
+- [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 
 ## Open-Source SDK
 
