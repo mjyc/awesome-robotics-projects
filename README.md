@@ -85,6 +85,10 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
 
+## Newsletter
+
+- [Weekly Robotics](https://weeklyrobotics.com/)
+
 ## Misc.
 
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
