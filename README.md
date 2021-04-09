@@ -33,6 +33,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
+- [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) a 3D printable 6-axis robotic arm
 
 ## Open-Source SDK
 
