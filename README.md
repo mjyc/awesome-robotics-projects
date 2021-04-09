@@ -15,13 +15,23 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
 - [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
+- [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - a 3D printable 6-axis robotic arm
+- [Walter](https://walter.readthedocs.io/en/latest/) - Walter is a 6 DOF robot arm in vintage style
+- [tloinny arm](https://www.hackster.io/tloinny/open-source-robotic-arm-85ea30) - open source robotic arm
+- [RoboArm](https://www.hackster.io/154072/roboarm-texas-instruments-powered-3d-printed-robotic-arm-043960) - robot arm
+- [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) - BetaBot
+- [Zortrax](https://library.zortrax.com/project/zortrax-robotic-arm/) - ZorTrax
+- [SmallRobotArm](https://github.com/SkyentificGit/SmallRobotArm) - SmallRobotArm
+- [ScaraRobot](https://howtomechatronics.com/projects/scara-robot-how-to-build-your-own-arduino-based-robot/) - ScaraRobot
+- [MiroBot](https://www.kickstarter.com/projects/mirobot/mirobot-6-axis-mini-industrial-robot-arm?ref=9454f8&utm_source=og-social) - MiroBot
+- [KauDa](https://www.kickstarter.com/projects/mirobot/mirobot-6-axis-mini-industrial-robot-arm?ref=9454f8&utm_source=og-social) - Kauda
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
-- [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
+- [CHAMP](https://github.com/chvmp/champ) - CHAMP Quadruped Controller ROS Package
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 - [OpenBot](https://www.openbot.org/) - Turning Smartphones into Robots
@@ -33,7 +43,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
-- [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) a 3D printable 6-axis robotic arm
+
 
 ## Open-Source SDK
 
@@ -85,6 +95,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
+- [https://github.com/hobofan/collected-robotic-arms] - list with robotic arms
 
 ## Newsletter
 
