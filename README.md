@@ -87,7 +87,10 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 
 ## Newsletter
 
+- [IEEE SPECTRUM - Robotics](https://spectrum.ieee.org/robotics)
+- [The Robot Report](https://www.therobotreport.com/)
 - [Weekly Robotics](https://weeklyrobotics.com/)
+- [Evan Ackerman's Twitter feed](https://twitter.com/BotJunkie)
 
 ## Misc.
 
