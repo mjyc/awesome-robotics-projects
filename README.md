@@ -74,6 +74,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Webots](http://www.cyberbotics.com/) - Open source robot simulator
 - [AI Habitat](https://aihabitat.org/) - AI Habitat enables training of embodied AI agents in a highly photorealistic & efficient 3D simulator
 - [Flightmare](https://uzh-rpg.github.io/flightmare/) - A Flexible Quadrotor Simulator
+- [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
 
 ## Related Awesome Lists
 
