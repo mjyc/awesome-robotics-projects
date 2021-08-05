@@ -97,7 +97,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 ## Misc.
 
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
-- [My public ROSJects](https://rds.theconstructsim.com/r/mchung/)
+- [My public ROSJects](https://app.theconstructsim.com/#/Profile/mjyc/portfolio)
 
 ## License
 
