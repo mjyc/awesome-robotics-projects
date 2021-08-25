@@ -63,6 +63,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [scale](https://scale.com/) - The Data Platform for AI
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 - [Autoware.AI](https://www.autoware.ai/) -  the world's first "All-in-One" open-source software for autonomous driving technology
+- [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics
 
 ## Physically Accurate or Photo-Realistic Simulators
 
