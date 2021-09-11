@@ -33,7 +33,16 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
+
+## Data Visualization & UI
+
+- [web-based visualization libraries](https://github.com/cruise-automation/webviz)
+    - [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics
+- [Realtime robot data visualization in the browser](https://github.com/rapyuta-robotics/zethus/)
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
+- [AR.js](https://ar-js-org.github.io/AR.js-Docs/) - Augmented Reality on the Web
+- [A-FRAME](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
+- [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
 
 ## Open-Source SDK
 
@@ -63,7 +72,6 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [scale](https://scale.com/) - The Data Platform for AI
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 - [Autoware.AI](https://www.autoware.ai/) -  the world's first "All-in-One" open-source software for autonomous driving technology
-- [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics
 
 ## Physically Accurate or Photo-Realistic Simulators
 
@@ -76,6 +84,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [AI Habitat](https://aihabitat.org/) - AI Habitat enables training of embodied AI agents in a highly photorealistic & efficient 3D simulator
 - [Flightmare](https://uzh-rpg.github.io/flightmare/) - A Flexible Quadrotor Simulator
 - [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
+- [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
+- [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
 
 ## Related Awesome Lists
 
