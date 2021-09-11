@@ -33,7 +33,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
-- [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot. Run
+- [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
 
 ## Open-Source SDK
 
