@@ -106,6 +106,12 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Weekly Robotics](https://weeklyrobotics.com/)
 - [Evan Ackerman's Twitter feed](https://twitter.com/BotJunkie)
 
+## Conferences & Events
+
+- [Robotics Summit & Expo](https://www.roboticssummit.com/) - The International Design and Development Event for Robotics and Intelligent Systems
+- [MODEX](https://www.modexshow.com/) - The Premier Supply Chain Event
+- [BARS](https://bars-2021.github.io/) - Bay Area Robotics Symposium
+
 ## Misc.
 
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
