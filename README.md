@@ -18,7 +18,9 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
-- [Nybble](https://www.petoi.com/) - Open-source robotic cat
+- [OpenCat](https://github.com/PetoiCamp/OpenCat) - Open-source quadruped robot framework for Arduino, ESP32 and Raspberry Pi.
+- [Petoi Nybble](https://www.petoi.com/pages/nybble-cutest-bionic-robot-cat) - Affordable open-source robotic cat
+- [Petoi Bittle](https://www.petoi.com/pages/bittle-open-source-bionic-robot-dog) - Affordable open-source robotic dog
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 - [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
