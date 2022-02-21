@@ -34,7 +34,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 
-## Data Visualization, UI
+## Data Visualization & UI
 
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
     - [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics
@@ -113,10 +113,12 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [MODEX](https://www.modexshow.com/) - The Premier Supply Chain Event
 - [BARS](https://bars-2021.github.io/) - Bay Area Robotics Symposium
 
-## Misc.
+## Shameless Self-Advertisement
 
+- [My public ROSJects](https://app.theconstructsim.com/#/Profile/mjyc) -  A collection of ready-to-start ROS projects on browser
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
-- [My public ROSJects](https://app.theconstructsim.com/#/Profile/mjyc/portfolio)
+- [Awesome HRI Papers for Industry](https://github.com/mjyc/awesome-robotics-system-design)
+- [Awesome Robotics System Design](https://github.com/mjyc/awesome-robotics-system-design)
 
 ## License
 
