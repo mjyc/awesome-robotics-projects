@@ -34,7 +34,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 
-## Data Visualization & UI
+## Data Visualization, UI
 
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
     - [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics
@@ -43,6 +43,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [AR.js](https://ar-js-org.github.io/AR.js-Docs/) - Augmented Reality on the Web
 - [A-FRAME](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
+- [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
 
 ## Open-Source SDK
 
