@@ -74,6 +74,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 - [Autoware.AI](https://www.autoware.ai/) -  the world's first "All-in-One" open-source software for autonomous driving technology
 - [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services
+- [TANGRAM](https://www.tangramvision.com/) - The Modern Perception Platform
 
 ## Physically Accurate or Photo-Realistic Simulators
 
