@@ -73,9 +73,12 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 - [scale](https://scale.com/) - The Data Platform for AI
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
-- [Autoware.AI](https://www.autoware.ai/) -  the world's first "All-in-One" open-source software for autonomous driving technology
+- [Autoware.AI](https://www.autoware.ai/) - the world's first "All-in-One" open-source software for autonomous driving technology
 - [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services
+- [COGNICEPT](https://cognicept.systems/) - Keep your robots going
 - [TANGRAM](https://www.tangramvision.com/) - The Modern Perception Platform
+- [SLAMCore](https://www.slamcore.com/) - Spatial Intelligence for robots and machines
+- [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
 
 ## Physically Accurate or Photo-Realistic Simulators
 
@@ -114,6 +117,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Robotics Summit & Expo](https://www.roboticssummit.com/) - The International Design and Development Event for Robotics and Intelligent Systems
 - [MODEX](https://www.modexshow.com/) - The Premier Supply Chain Event
 - [BARS](https://bars-2021.github.io/) - Bay Area Robotics Symposium
+- [TEROS](https://teros-texas.github.io/) - Texas Regional Robotics Symposium
 
 ## Shameless Self-Advertisement
 
