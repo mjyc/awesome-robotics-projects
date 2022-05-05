@@ -93,6 +93,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
+- [Applied Intuition](https://www.appliedintuition.com/) - ADAS and AV simulation and development tools
 
 ## Related Awesome Lists
 
