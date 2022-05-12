@@ -80,6 +80,13 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [SLAMCore](https://www.slamcore.com/) - Spatial Intelligence for robots and machines
 - [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
 
+## Nocode/Lowcode
+
+- [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
+- [SOUTHIE AUTONOMY](https://www.southie.ai/) - Easy, Flexible Automation for Contract Packaging
+- [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
+- [cogniteam](https://www.cogniteam.com/) - Standout software solutions for autonomous robots
+
 ## Physically Accurate or Photo-Realistic Simulators
 
 - [Gazebo](http://gazebosim.org/) - Gazebo is an open-source 3D robotics simulator
