@@ -79,6 +79,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [TANGRAM](https://www.tangramvision.com/) - The Modern Perception Platform
 - [SLAMCore](https://www.slamcore.com/) - Spatial Intelligence for robots and machines
 - [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
+- [Transitive Robotics](https://transitiverobotics.com/) - Open-core, Full-stack Robotic Software Capabilities
 
 ## Nocode/Lowcode
 
