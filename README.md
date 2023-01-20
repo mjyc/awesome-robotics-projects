@@ -45,6 +45,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [A-FRAME](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
 - [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
+- [rerun.io]([https://transitiverobotics.com/](https://www.rerun.io)) - Open source visualization infrastructure for computer vision and robotics
 
 ## Open-Source SDK
 
