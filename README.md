@@ -115,6 +115,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
+- [awesome-cloud-robotics](https://github.com/Airbotics/awesome-cloud-robotics)
 
 ## Newsletter
 
