@@ -34,6 +34,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
+- [The 20 Best Jetson Nano Projects of 2023](https://all3dp.com/2/best-jetson-nano-projects/)
 
 ## Data Visualization & UI
 
