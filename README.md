@@ -3,6 +3,7 @@
 A list of open-source, affordable, less-known, or visionary robotics projects.
 
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
+- [RoboPrime](https://github.com/simonepri/roboprime) - Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
