@@ -83,6 +83,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
 - [Transitive Robotics](https://transitiverobotics.com/) - Open-core, Full-stack Robotic Software Capabilities
 - [Airbotics](https://www.airbotics.io/) - Open-source software deployment platform for robotics
+- [YOU ONLY NEED ONE HUB](https://yonohub.com/) - Cloud-based system for designing, sharing, and evaluating Autonomous Vehicles, ADAS, and Robotics.
+- [ROSbloX documentation](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
 
 ## Nocode/Lowcode
 
@@ -138,6 +140,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
 - [Awesome HRI Papers for Industry](https://github.com/mjyc/awesome-robotics-system-design)
 - [Awesome Robotics System Design](https://github.com/mjyc/awesome-robotics-system-design)
+- [(Wannabe) Awesome (Remote) Robot DevEnvs](https://github.com/mjyc/awesome-robot-devenvs)
 
 ## License
 
