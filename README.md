@@ -35,7 +35,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
 - [The 20 Best Jetson Nano Projects of 2023](https://all3dp.com/2/best-jetson-nano-projects/)
-
+- [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
 ## Data Visualization & UI
 
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
