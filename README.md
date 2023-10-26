@@ -1,6 +1,6 @@
 # Awesome Robotics Project
 
-A list of open-source, affordable, less-known, or visionary robotics projects.
+A list of open-source, affordable, less-known, or visionary robotics projects (and startup companies I'm interested in)
 
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
@@ -34,8 +34,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
-- [The 20 Best Jetson Nano Projects of 2023](https://all3dp.com/2/best-jetson-nano-projects/)
 - [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
+
 ## Data Visualization & UI
 
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
@@ -61,7 +61,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
 - [instructables](https://www.instructables.com/) - "Instructables is a community for people who like to make things."
 
-## Cloud Robotics, Robotics Platforms
+## Cloud Robotics, Robotics Platforms, Platform Companies
 
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [RosHub](https://roshub.io/) - Manage one robot or entire fleets
@@ -84,7 +84,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Transitive Robotics](https://transitiverobotics.com/) - Open-core, Full-stack Robotic Software Capabilities
 - [Airbotics](https://www.airbotics.io/) - Open-source software deployment platform for robotics
 - [YOU ONLY NEED ONE HUB](https://yonohub.com/) - Cloud-based system for designing, sharing, and evaluating Autonomous Vehicles, ADAS, and Robotics.
-- [ROSbloX documentation](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
+- [ROSbloX](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
+- [Applied Intuition](https://www.appliedintuition.com/) - ADAS and AV simulation and development tools
 
 ## Nocode/Lowcode
 
@@ -106,7 +107,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
-- [Applied Intuition](https://www.appliedintuition.com/) - ADAS and AV simulation and development tools
+- [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 
 ## Related Awesome Lists
 
