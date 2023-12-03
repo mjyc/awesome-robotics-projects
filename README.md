@@ -138,14 +138,14 @@ A list of open-source, affordable, less-known, or visionary robotics projects (a
 
 ## Shameless Self-Advertisement
 
-- [My public ROSJects](https://app.theconstructsim.com/#/Profile/mjyc) -  A collection of ready-to-start ROS projects on browser
-- [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
-- [Awesome HRI Papers for Industry](https://github.com/mjyc/awesome-robotics-system-design)
 - [Awesome Robotics System Design (and more)](https://github.com/mjyc/awesome-robotics-system-design)
+- [Awesome HRI Papers for Industry](https://github.com/mjyc/awesome-robotics-system-design)
 - [(Wannabe) Awesome (Remote) Robot DevEnvs](https://github.com/mjyc/awesome-robot-devenvs)
+- [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
 - [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming)
 - [awesome-behavioral-change](https://github.com/mjyc/awesome-behavioral-change)
 - [awesome-tech-education](https://github.com/mjyc/awesome-tech-education)
+- [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
 
 ## License
 
