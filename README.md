@@ -42,6 +42,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects (a
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
 - [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
 - [UMIRobot](https://mmmarinho.github.io/UMIRobot/) - A simple 3D printable robot arm with open-source hardware and software.
+- [Vine Robots](https://www.vinerobots.org/) - Soft continuum robots design with low-cost fabrication in mind and for the navigation of difficult environments.
+- [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 
 ## Data Visualization & UI
 
