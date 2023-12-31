@@ -44,6 +44,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects (a
 - [UMIRobot](https://mmmarinho.github.io/UMIRobot/) - A simple 3D printable robot arm with open-source hardware and software.
 - [Vine Robots](https://www.vinerobots.org/) - Soft continuum robots design with low-cost fabrication in mind and for the navigation of difficult environments.
 - [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
+- [Maker's Pet](https://github.com/makerspet/makerspet_loki) - Extremely low-cost open-source 3D-printed Arduino/ROS2 home pet robot
 
 ## Data Visualization & UI
 
