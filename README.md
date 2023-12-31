@@ -15,6 +15,11 @@ A list of open-source, affordable, less-known, or visionary robotics projects (a
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
 - [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
+- [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
+- [Walter](https://walter.readthedocs.io/en/latest/) - 6DOF Industrial Robot, vintage style
+- [Open-Source Robotic Arm](https://www.hackster.io/tloinny/open-source-robotic-arm-85ea30) - Open-source robotic arm using PC with ROS, STM32, and CAN bus
+- [RoboArm](https://www.hackster.io/154072/roboarm-texas-instruments-powered-3d-printed-robotic-arm-043960) - robot arm
+- [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) - 3d printable Robot arm
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
