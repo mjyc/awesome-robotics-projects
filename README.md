@@ -3,7 +3,6 @@
 A list of open-source, affordable, less-known, or visionary robotics projects (and startup companies I'm interested in)
 
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
-- [RoboPrime](https://github.com/simonepri/roboprime) - Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
@@ -22,6 +21,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects (a
 - [RoboArm](https://www.hackster.io/154072/roboarm-texas-instruments-powered-3d-printed-robotic-arm-043960) - robot arm
 - [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) - 3d printable Robot arm
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
+- [RoboPrime](https://github.com/simonepri/roboprime) - Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
