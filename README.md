@@ -2,7 +2,6 @@
 
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
-- 
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
@@ -88,6 +87,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
 
+
 ## Simulators
 
 that are physically accurate, photo realistic, or roboticist friendly.
@@ -106,12 +106,14 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Webots](http://www.cyberbotics.com/) - Open source robot simulator
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
 
+
 ## Hardware Communities
 
 - [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
 - [hackaday](https://hackaday.com/) and [hackaday.io](https://hackaday.io/) - "Hackaday.io is the world's largest collaborative hardware development community."
 - [hackster.io](https://www.hackster.io/) - "Hackster is a community dedicated to learning hardware, from beginner to pro."
 - [instructables](https://www.instructables.com/) - "Instructables is a community for people who like to make things."
+
 
 ## Conferences & Events
 
@@ -124,6 +126,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Robotics Summit & Expo](https://www.roboticssummit.com/) - The International Design and Development Event for Robotics and Intelligent Systems
 - [ROSCon](https://roscon.ros.org/2023/) - The robotics conference for developers
 - [TEROS](https://teros-texas.github.io/) - Texas Regional Robotics Symposium
+
 
 ## Newsletter
 
