@@ -1,7 +1,8 @@
 # Awesome Robotics Project
 
-A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I'm interested in.
+A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
+- 
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
@@ -46,20 +47,36 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Walter](https://walter.readthedocs.io/en/latest/) - 6DOF Industrial Robot, vintage style
 
 
+## Library, Framework, SDK
+
+### Robots
+
+- [boston-dynamics/spot-sdk](https://github.com/boston-dynamics/spot-sdk) - Spot SDK
+- [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
+- [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) PyRobot: An Open Source Robotics Research Platform
+- [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - Minitaur SDK extension
+- [robotemi/sdk](https://github.com/robotemi/sdk) - temi SDK
+- Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
+
+### Autonomous Driving
+
+- [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+- [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) - Open-source software for self-driving vehicles
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system.
+
+### ML & Vision
+
+- [borglab/gtsam](https://github.com/borglab/gtsam) - Georgia Tech Smoothing and Mapping Library
+- [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
+- [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+
+
 ## Command Line Tools
 
 - [linux_isolate_process](https://github.com/adityapande-1995/linux_isolate_process)
 - [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
 - [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz)
-
-
-## SDK
-
-- Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
-- [Minitaur SDK extension](https://github.com/resibots/minitaur_sdk)
-- [Spot SDK](https://github.com/boston-dynamics/spot-sdk)
-- [temi SDK](https://github.com/robotemi/sdk)
 
 
 ## Data Visualization & UI
