@@ -182,6 +182,7 @@ but not robotics-specific
 
 - [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
 - [Awesome Human Robot Interaction](https://github.com/Po-Jen/awesome-human-robot-interaction)
+- [Awesome Projects](https://github.com/jslee02/awesome-projects)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 - [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
