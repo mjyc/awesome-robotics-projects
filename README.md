@@ -146,11 +146,12 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Autoware.AI](https://www.autoware.ai/) - the world's first "All-in-One" open-source software for autonomous driving technology
 - [AWS RoboMaker](https://aws.amazon.com/robomaker/) - Simulate and deploy robotic applications at cloud scale
 - [balena](https://www.balena.io/) - The infrastructure you need to develop, deploy, and manage fleets of connected devices at scale
-- [COGNICEPT](https://cognicept.systems/) - Keep your robots going
-- [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services
+- [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services (deprecated)
+- [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - a framework that allows existing ROS 2 automation applications to gain access to additional computing resources from commercial cloud-based services
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [Freedom robotics](https://www.freedomrobotics.ai/) - POWERFUL CONTROL AND MONITORING FOR ROBOTS
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
+- [KABAM Robotics](https://kabam.ai/) - WORK MANAGEMENT SYSTEM FOR ALL YOUR ROBOTS & SMART DEVICES
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/) - We make robots attainable and useful
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
