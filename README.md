@@ -14,6 +14,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - Open-source 6-wheel rover based on the rovers on Mars
+- [LeRobot](https://github.com/huggingface/lerobot/tree/main) - State-of-the-art AI for real-world robotics
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
 - [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
@@ -68,6 +69,13 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [borglab/gtsam](https://github.com/borglab/gtsam) - Georgia Tech Smoothing and Mapping Library
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [nano-pgo](https://github.com/gisbi-kim/nano-pgo/tree/main) - For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation
+- [KFCore](https://github.com/jnz/KFCore) - A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB
+
+### Data & Deployment
+
+- [ros2_bag_exporter](https://github.com/Geekgineer/ros2_bag_exporter) - ROS2 Bag Exporter is a ROS 2 c++ package designed to export ROS 2 bag files (rosbag2) into various formats
+- [ROS Kubernetes / KubeEdge](https://github.com/fujitatomoya/ros_k8s) - Kuberenetes / ROS&ROS2 Cluster Samples
 
 
 ## Command Line Tools
@@ -82,6 +90,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 - [A-FRAME](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 - [AR.js](https://ar-js-org.github.io/AR.js-Docs/) - Augmented Reality on the Web
+- [CloudPeek](https://github.com/Geekgineer/CloudPeek/tree/main) - Lightweight, cross-platform, single-header C++ point cloud viewer
+- [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/lanelet2) - C++ library for handling map data in the context of automated driving
 - [Realtime robot data visualization in the browser](https://github.com/rapyuta-robotics/zethus/)
 - [rerun.io](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
@@ -168,6 +178,9 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [SOUTHIE AUTONOMY](https://www.southie.ai/) - Easy, Flexible Automation for Contract Packaging
 - [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
 - [cogniteam](https://www.cogniteam.com/) - Standout software solutions for autonomous robots
+- [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
+- [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
+- [Ekumen](https://ekumenlabs.com/) - We are an international engineering boutique, provider of advanced software development services and technology
 
 ### Deployment & DevEnv
 
