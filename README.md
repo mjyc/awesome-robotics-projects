@@ -68,20 +68,15 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 - [borglab/gtsam](https://github.com/borglab/gtsam) - Georgia Tech Smoothing and Mapping Library
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
-- [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [nano-pgo](https://github.com/gisbi-kim/nano-pgo/tree/main) - For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation
-- [KFCore](https://github.com/jnz/KFCore) - A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB
-
-### Data & Deployment
-
-- [ros2_bag_exporter](https://github.com/Geekgineer/ros2_bag_exporter) - ROS2 Bag Exporter is a ROS 2 c++ package designed to export ROS 2 bag files (rosbag2) into various formats
-- [ROS Kubernetes / KubeEdge](https://github.com/fujitatomoya/ros_k8s) - Kuberenetes / ROS&ROS2 Cluster Samples
+- [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 
 
 ## Command Line Tools
 
 - [linux_isolate_process](https://github.com/adityapande-1995/linux_isolate_process)
 - [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
+- [ROSA](https://github.com/nasa-jpl/rosa) - The ROS Agent
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
 - [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz)
 
@@ -95,6 +90,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Realtime robot data visualization in the browser](https://github.com/rapyuta-robotics/zethus/)
 - [rerun.io](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
+- [ros2_bag_exporter](https://github.com/Geekgineer/ros2_bag_exporter) - ROS2 Bag Exporter is a ROS 2 c++ package designed to export ROS 2 bag files (rosbag2) into various formats
+- [URDFormer](https://github.com/WEIRDLabUW/urdformer) - code release for URDFormer
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
 
 
@@ -115,6 +112,11 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
 - [Webots](http://www.cyberbotics.com/) - Open source robot simulator
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
+
+
+## Deployment
+
+- [ROS Kubernetes / KubeEdge](https://github.com/fujitatomoya/ros_k8s) - Kuberenetes / ROS&ROS2 Cluster Samples
 
 
 ## Hardware Communities
@@ -181,6 +183,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
 - [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
 - [Ekumen](https://ekumenlabs.com/) - We are an international engineering boutique, provider of advanced software development services and technology
+- [Open Navigation LLC](https://www.opennav.org/) - Your Friendly Neighborhood Navigators
 
 ### Deployment & DevEnv
 
