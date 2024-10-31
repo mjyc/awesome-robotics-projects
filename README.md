@@ -158,7 +158,6 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
 - [Autoware.AI](https://www.autoware.ai/) - the world's first "All-in-One" open-source software for autonomous driving technology
 - [AWS RoboMaker](https://aws.amazon.com/robomaker/) - Simulate and deploy robotic applications at cloud scale
-- [balena](https://www.balena.io/) - The infrastructure you need to develop, deploy, and manage fleets of connected devices at scale
 - [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services (deprecated)
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - a framework that allows existing ROS 2 automation applications to gain access to additional computing resources from commercial cloud-based services
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
@@ -190,6 +189,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 
 but not robotics-specific
 
+- [balena](https://www.balena.io/) - The infrastructure you need to develop, deploy, and manage fleets of connected devices at scale
 - [MENDER](https://mender.io/) - Over-the-Air Software Updates for IoT Devices
 - [Synpse](https://synpse.net/) - Deploy. Monitor. Manage.
 - [aviator](https://www.aviator.co/) - Keep builds green with a highly customizable merge queue
