@@ -185,7 +185,6 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
 - [Ekumen](https://ekumenlabs.com/) - We are an international engineering boutique, provider of advanced software development services and technology
 - [Open Navigation LLC](https://www.opennav.org/) - Your Friendly Neighborhood Navigators
-- [https://www.miruml.com/](https://www.miruml.com) - Deployment Infrastructure for Robotics and IoT
 
 ### Deployment & DevEnv
 
@@ -195,6 +194,7 @@ but not robotics-specific
 - [Synpse](https://synpse.net/) - Deploy. Monitor. Manage.
 - [aviator](https://www.aviator.co/) - Keep builds green with a highly customizable merge queue
 - [DevZero](https://www.devzero.io/) - More time writing code.
+- [Miru](https://www.miruml.com) - Deployment Infrastructure for Robotics and IoT
 
 
 ## Related Awesome Lists
