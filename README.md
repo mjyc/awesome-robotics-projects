@@ -52,6 +52,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 ### Robots
 
 - [boston-dynamics/spot-sdk](https://github.com/boston-dynamics/spot-sdk) - Spot SDK
+- [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Robot SDK in Rust (deterministic and high performance)  
 - [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) PyRobot: An Open Source Robotics Research Platform
 - [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - Minitaur SDK extension
