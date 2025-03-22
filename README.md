@@ -2,6 +2,7 @@
 
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
+- [Animatronic Eye Mechanism](https://www.instructables.com/Animatronic-Eye-Mechanism) - Animatronic Eye Mechanism
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
@@ -28,6 +29,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Open-Source Robotic Arm](https://www.hackster.io/tloinny/open-source-robotic-arm-85ea30) - Open-source robotic arm using PC with ROS, STM32, and CAN bus
 - [OpenBot](https://www.openbot.org/) - Turning Smartphones into Robots
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
+- [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 - [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
