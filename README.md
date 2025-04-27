@@ -7,9 +7,11 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 - [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) - 3d printable Robot arm
+- [BiDexHand](https://github.com/wengmister/BiDexHand) - BiDexHand: Open-Source 16-DoF Biomimetic Dexterous Hand
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) - Demonstration robot for learning principles of real-time control
 - [CHAMP](https://github.com/chvmp/champ) - 𓃡 CHAMP Quadruped Controller ROS Package
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
+- [DG-5F](https://en.tesollo.com/dg-5f/) - A robotic hand capable of human-level gripping and manipulation
 - [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
@@ -22,6 +24,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
 - [MuSHR](https://mushr.io/) - Affordable, open-source robotic race car
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
+- [Nguyen Vincent's omnidirectional ROS2 robot](https://www.youtube.com/watch?v=5cuvHg3hsvY) - Making an omnidirectional ROS2 robot. No talking, no music. Just building.
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
@@ -35,11 +38,13 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
+- [Reachy 2](https://discourse.ros.org/t/reachy-2-humanoid-full-ros-2-dev-stack-now-open-source-one-line-docker-sim-python-sdk/43362/1) – Open-source humanoid robot
 - [ROBEL](https://sites.google.com/view/roboticsbenchmarks/) - Collection of affordable, reliable hardware robot designs
 - [RoboArm](https://www.hackster.io/154072/roboarm-texas-instruments-powered-3d-printed-robotic-arm-043960) - robot arm
 - [RoboPrime](https://github.com/simonepri/roboprime) - Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
+- [RUKA](https://ruka-hand.github.io/) - Rethinking the Design of Humanoid Hands with Learning
 - [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Open-source quadruped robot
 - [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
 - [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
