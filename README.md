@@ -6,6 +6,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
+- [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org/) - An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot
 - [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) - 3d printable Robot arm
 - [BiDexHand](https://github.com/wengmister/BiDexHand) - BiDexHand: Open-Source 16-DoF Biomimetic Dexterous Hand
 - [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) - Demonstration robot for learning principles of real-time control
