@@ -3,6 +3,7 @@
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
 - [Animatronic Eye Mechanism](https://www.instructables.com/Animatronic-Eye-Mechanism) - Animatronic Eye Mechanism from https://nmrobots.com/
+- [any4lerobot](https://github.com/Tavish9/any4lerobot) - A collection of utilities and tools for LeRobot
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
@@ -114,11 +115,14 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Flightmare](https://uzh-rpg.github.io/flightmare/) - A Flexible Quadrotor Simulator
 - [Gazebo](http://gazebosim.org/) - Gazebo is an open-source 3D robotics simulator
 - [Gibson](http://gibsonenv.stanford.edu/) - Gibson is a perceptual and physics Simulator
+- [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
 - [MetaDrive](https://github.com/metadriverse/metadrive/) -  Open-source Driving Simulator for AI and Autonomy Research
 - [MORSE](http://morse-simulator.github.io/) - The open-source simulator for academic robotics
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim) - Simulate, test and iterate virtual robots in a high fidelity 3D environment
+- [OmniGibson](https://github.com/StanfordVL/OmniGibson) - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
 - [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
+- [SimplerEnv](https://github.com/simpler-env/SimplerEnv) - Simulated Manipulation Policy Evaluation Environments for Real Robot Setups
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
 - [Webots](http://www.cyberbotics.com/) - Open source robot simulator
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
