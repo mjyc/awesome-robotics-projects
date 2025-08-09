@@ -16,6 +16,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
+- [Forte](https://arxiv.org/abs/2507.15693) - Strong, Accurate, and Low-Cost Robot Manipulator
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - Open-source 6-wheel rover based on the rovers on Mars
 - [LeRobot](https://github.com/huggingface/lerobot/tree/main) - State-of-the-art AI for real-world robotics
@@ -66,6 +67,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - Minitaur SDK extension
 - [robotemi/sdk](https://github.com/robotemi/sdk) - temi SDK
 - Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
+- [unitreerobotics/unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2
 
 ### Autonomous Driving
 
