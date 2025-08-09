@@ -19,6 +19,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Forte](https://arxiv.org/abs/2507.15693) - Strong, Accurate, and Low-Cost Robot Manipulator
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - Open-source 6-wheel rover based on the rovers on Mars
+- [K-Bot](https://github.com/kscalelabs/kbot) - The K-Scale Robot
 - [LeRobot](https://github.com/huggingface/lerobot/tree/main) - State-of-the-art AI for real-world robotics
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
@@ -190,6 +191,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
 - [SOUTHIE AUTONOMY](https://www.southie.ai/) - Easy, Flexible Automation for Contract Packaging
 - [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
+- [miru](https://www.miruml.com) - Configuration Management for Robotics
 - [cogniteam](https://www.cogniteam.com/) - Standout software solutions for autonomous robots
 - [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
 - [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
