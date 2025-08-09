@@ -219,6 +219,7 @@ but not robotics-specific
 - [Awesome Projects](https://github.com/jslee02/awesome-projects)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
+- [Awesome Robotics Conferences and Schools ](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/conf.html) (torydebra)
 - [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Awesome Robotics](https://github.com/ahundt/awesome-robotics) (ahundt)
 - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) (Kiloreux)
