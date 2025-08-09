@@ -170,33 +170,35 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Artificial](https://www.artificial.com/) - Redefining Lab Automation Software
 - [Autoware.AI](https://www.autoware.ai/) - the world's first "All-in-One" open-source software for autonomous driving technology
 - [AWS RoboMaker](https://aws.amazon.com/robomaker/) - Simulate and deploy robotic applications at cloud scale
-- [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services (deprecated)
+- [cogniteam](https://www.cogniteam.com/) - Standout software solutions for autonomous robots
+- [Ekumen](https://ekumenlabs.com/) - We are an international engineering boutique, provider of advanced software development services and technology
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - a framework that allows existing ROS 2 automation applications to gain access to additional computing resources from commercial cloud-based services
+- [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services (deprecated)
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [Freedom robotics](https://www.freedomrobotics.ai/) - POWERFUL CONTROL AND MONITORING FOR ROBOTS
+- [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [KABAM Robotics](https://kabam.ai/) - WORK MANAGEMENT SYSTEM FOR ALL YOUR ROBOTS & SMART DEVICES
+- [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
+- [miru](https://www.miruml.com) - Configuration Management for Robotics
+- [Nema](https://nemasystems.io/) - AI agents that accelerate robotics hardware design
+- [Open Navigation LLC](https://www.opennav.org/) - Your Friendly Neighborhood Navigators
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/) - We make robots attainable and useful
+- [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
+- [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 - [ROSbloX](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
 - [RosHub](https://roshub.io/) - Manage one robot or entire fleets
 - [scale](https://scale.com/) - The Data Platform for AI
 - [SEMIO](https://semio.ai/) - bringing robots to life
 - [SLAMCore](https://www.slamcore.com/) - Spatial Intelligence for robots and machines
+- [SOUTHIE AUTONOMY](https://www.southie.ai/) - Easy, Flexible Automation for Contract Packaging
 - [TANGRAM](https://www.tangramvision.com/) - The Modern Perception Platform
 - [Transitive Robotics](https://transitiverobotics.com/) - Open-core, Full-stack Robotic Software Capabilities
+- [Vinci](https://www.vinci4d.ai/) - Powering the future of hardware design
 - [Windows 10 IoT + ROS](https://microsoft.github.io/Win-RoS-Landing-Page/#) - Bringing the intelligent edge to robots with ROS on Windows 10 and Azure
 - [YOU ONLY NEED ONE HUB](https://yonohub.com/) - Cloud-based system for designing, sharing, and evaluating Autonomous Vehicles, ADAS, and Robotics.
-- [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
-- [SOUTHIE AUTONOMY](https://www.southie.ai/) - Easy, Flexible Automation for Contract Packaging
-- [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
-- [miru](https://www.miruml.com) - Configuration Management for Robotics
-- [cogniteam](https://www.cogniteam.com/) - Standout software solutions for autonomous robots
-- [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
-- [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
-- [Ekumen](https://ekumenlabs.com/) - We are an international engineering boutique, provider of advanced software development services and technology
-- [Open Navigation LLC](https://www.opennav.org/) - Your Friendly Neighborhood Navigators
 
 ### Deployment & DevEnv
 
