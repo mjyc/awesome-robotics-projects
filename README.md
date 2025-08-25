@@ -83,6 +83,8 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [KFCore](https://github.com/jnz/KFCore) - A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB
 - [nano-pgo](https://github.com/gisbi-kim/nano-pgo/tree/main) - For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation
 - [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [CRISP](https://github.com/mjyc/awesome-robotics-projects) - Compliant ROS2 Controllers for Learning-Based Manipulation Policies
+
 
 
 ## Command Line Tools
