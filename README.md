@@ -85,14 +85,13 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [CRISP](https://github.com/mjyc/awesome-robotics-projects) - Compliant ROS2 Controllers for Learning-Based Manipulation Policies
 
-
-
 ## Command Line Tools
 
 - [linux_isolate_process](https://github.com/adityapande-1995/linux_isolate_process)
 - [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
 - [ROSA](https://github.com/nasa-jpl/rosa) - The ROS Agent
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
+- [Pixi: Modern package management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 - [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz)
 
 
@@ -106,6 +105,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [rerun.io](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
 - [ros2_bag_exporter](https://github.com/Geekgineer/ros2_bag_exporter) - ROS2 Bag Exporter is a ROS 2 c++ package designed to export ROS 2 bag files (rosbag2) into various formats
+- [rosetta — ROS 2 ⇄ LeRobot bridge](https://github.com/iblnkn/rosetta) - Standardizes the interface between ROS 2 topics and LeRobot policies using a small YAML contract
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - code release for URDFormer
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
 
