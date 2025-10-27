@@ -244,6 +244,7 @@ but not robotics-specific
 - [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming)
 - [awesome-tech-education](https://github.com/mjyc/awesome-tech-education)
 - [My curated list of robotics companies (Google Sheet)](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)
+- [Awesome Robots](https://awesomerobots.xyz/)
 
 
 ## License
