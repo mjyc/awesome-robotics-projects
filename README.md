@@ -3,7 +3,6 @@
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
 - [Animatronic Eye Mechanism](https://www.instructables.com/Animatronic-Eye-Mechanism) - Animatronic Eye Mechanism from https://nmrobots.com/
-- [any4lerobot](https://github.com/Tavish9/any4lerobot) - A collection of utilities and tools for LeRobot
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
 - [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
@@ -79,12 +78,14 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 ### ML & Vision
 
+- [any4lerobot](https://github.com/Tavish9/any4lerobot) - A collection of utilities and tools for LeRobot
 - [borglab/gtsam](https://github.com/borglab/gtsam) - Georgia Tech Smoothing and Mapping Library
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [KFCore](https://github.com/jnz/KFCore) - A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB
 - [nano-pgo](https://github.com/gisbi-kim/nano-pgo/tree/main) - For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation
 - [openMVG/openMVG](https://github.com/openMVG/openMVG/) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [CRISP](https://github.com/mjyc/awesome-robotics-projects) - Compliant ROS2 Controllers for Learning-Based Manipulation Policies
+
 
 ## Command Line Tools
 
