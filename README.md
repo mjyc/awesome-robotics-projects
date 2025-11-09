@@ -169,6 +169,15 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Weekly Robotics](https://weeklyrobotics.com/)
 - TechCrunch: [Robotics category](https://techcrunch.com/category/robotics/), [robotics tag](https://techcrunch.com/tag/robotics/)
 
+### Bloggers
+
+- https://generalrobots.substack.com/
+- https://geohot.github.io/blog/
+- https://itcanthink.substack.com/
+- https://mjyc.github.io/blog/
+- https://ranchhandrobotics.com/
+- https://roboticseabass.com/about/
+
 
 ## Robotics Tooling Companies
 
