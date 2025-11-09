@@ -175,8 +175,10 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - https://geohot.github.io/blog/
 - https://itcanthink.substack.com/
 - https://mjyc.github.io/blog/
+- https://mtmason.com/matt-mason-robotics-blog/
 - https://ranchhandrobotics.com/
 - https://roboticseabass.com/about/
+- https://rodneybrooks.com/blog/
 
 
 ## Robotics Tooling Companies
