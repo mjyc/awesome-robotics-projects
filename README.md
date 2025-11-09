@@ -134,6 +134,12 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) - Robotic simulation in Unity with ROS integration
 
 
+## Dataset
+
+- [nvidia/PhysicalAI-Autonomous-Vehicles](https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles) PhysicalAI Autonomous Vehicles
+- [YCB Benchmarks – Object and Model Set](https://www.ycbbenchmarks.com/) YCB Benchmarks – Object and Model Set
+
+
 ## Deployment
 
 - [ROS Kubernetes / KubeEdge](https://github.com/fujitatomoya/ros_k8s) - Kuberenetes / ROS&ROS2 Cluster Samples
@@ -171,14 +177,17 @@ that are physically accurate, photo realistic, or roboticist friendly.
 
 ### Bloggers
 
+- https://engmanage.substack.com/
 - https://generalrobots.substack.com/
 - https://geohot.github.io/blog/
 - https://itcanthink.substack.com/
+- https://medium.com/@elliotgraebert
 - https://mjyc.github.io/blog/
 - https://mtmason.com/matt-mason-robotics-blog/
 - https://ranchhandrobotics.com/
 - https://roboticseabass.com/about/
 - https://rodneybrooks.com/blog/
+- https://sergeylevine.substack.com/
 
 
 ## Robotics Tooling Companies
@@ -194,14 +203,17 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [FogROS](https://github.com/BerkeleyAutomation/FogROS) - a framework that allows existing ROS automation applications to gain access to additional computing resources from commercial cloud-based services (deprecated)
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [Freedom robotics](https://www.freedomrobotics.ai/) - POWERFUL CONTROL AND MONITORING FOR ROBOTS
+- [Generalist](https://generalistai.com/)
 - [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [KABAM Robotics](https://kabam.ai/) - WORK MANAGEMENT SYSTEM FOR ALL YOUR ROBOTS & SMART DEVICES
+- [Lightwheel-Platform Enterprise](https://lightwheel.ai/) - Make Simulation Successful
 - [micropsi industries](https://www.micropsi-industries.com/mirai-product) - Automate Manual Workstations Yourself
 - [miru](https://www.miruml.com) - Configuration Management for Robotics
 - [Nema](https://nemasystems.io/) - AI agents that accelerate robotics hardware design
 - [Open Navigation LLC](https://www.opennav.org/) - Your Friendly Neighborhood Navigators
 - [PHANTOM AI](https://phantom.ai/) - Democratizing advanced driver assistance systems
+- [Physical Intelligence (π)](https://www.physicalintelligence.company/)
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/) - We make robots attainable and useful
 - [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
 - [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
