@@ -19,6 +19,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Forte](https://arxiv.org/abs/2507.15693) - Strong, Accurate, and Low-Cost Robot Manipulator
 - [GoodBoy](https://www.instructables.com/id/GoodBoy-3D-Printed-Arduino-Robot-Dog/) - 3D Printed Arduino Robot Dog
 - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) - Open-source 6-wheel rover based on the rovers on Mars
+- [Just1](https://nrdrgz.github.io/2025/10/21/building-just1-autonomous-robot/) - How I built a small autonomous robot ...
 - [K-Bot](https://github.com/kscalelabs/kbot) - The K-Scale Robot
 - [LeRobot](https://github.com/huggingface/lerobot/tree/main) - State-of-the-art AI for real-world robotics
 - [LHF connect](https://en.lhfconnect.net/) - A small semi-autonomous device that connects patients in isolation with the people they love
