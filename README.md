@@ -109,6 +109,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
 - [ros2_bag_exporter](https://github.com/Geekgineer/ros2_bag_exporter) - ROS2 Bag Exporter is a ROS 2 c++ package designed to export ROS 2 bag files (rosbag2) into various formats
 - [rosetta — ROS 2 ⇄ LeRobot bridge](https://github.com/iblnkn/rosetta) - Standardizes the interface between ROS 2 topics and LeRobot policies using a small YAML contract
+- [URDF-Architect](https://github.com/OpenLegged/URDF-Architect) - URDF-Architect is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance.
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - code release for URDFormer
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
 
