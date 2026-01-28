@@ -104,6 +104,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [AR.js](https://ar-js-org.github.io/AR.js-Docs/) - Augmented Reality on the Web
 - [CloudPeek](https://github.com/Geekgineer/CloudPeek/tree/main) - Lightweight, cross-platform, single-header C++ point cloud viewer
 - [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/lanelet2) - C++ library for handling map data in the context of automated driving
+- [mujoco-scene-editor](https://github.com/markusgrotz/mujoco-scene-editor) - Lightweight, interactive scene editor for MuJoCo scenes
 - [Realtime robot data visualization in the browser](https://github.com/rapyuta-robotics/zethus/)
 - [rerun.io](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
