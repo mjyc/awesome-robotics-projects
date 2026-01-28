@@ -126,6 +126,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
 - [MetaDrive](https://github.com/metadriverse/metadrive/) -  Open-source Driving Simulator for AI and Autonomy Research
 - [MORSE](http://morse-simulator.github.io/) - The open-source simulator for academic robotics
+- [MuJoCo](https://mujoco.org/) - Advanced physics simulation
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim) - Simulate, test and iterate virtual robots in a high fidelity 3D environment
 - [OmniGibson](https://github.com/StanfordVL/OmniGibson) - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
 - [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
