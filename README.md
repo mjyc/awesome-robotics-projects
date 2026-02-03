@@ -1,6 +1,6 @@
 # Awesome Robotics Project
 
-A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
+A list of open-source, affordable, less-known, or visionary robotics projects .... aaand robotics tooling companies I find interesting.
 
 - [Animatronic Eye Mechanism](https://www.instructables.com/Animatronic-Eye-Mechanism) - Animatronic Eye Mechanism from https://nmrobots.com/
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
