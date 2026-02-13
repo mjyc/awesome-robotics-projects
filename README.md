@@ -14,6 +14,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [CyPhyHouse : a toolchain for distributed robotics](https://cyphyhouse.github.io/) - CyPhyHouse : a toolchain for distributed robotics
 - [DG-5F](https://en.tesollo.com/dg-5f/) - A robotic hand capable of human-level gripping and manipulation
 - [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
+- [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 - [DUMMY](https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/) - The Robot Arm Is Not So Dumb
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
 - [Forte](https://arxiv.org/abs/2507.15693) - Strong, Accurate, and Low-Cost Robot Manipulator
@@ -33,11 +34,11 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
 - [Nybble](https://www.petoi.com/) - Open-source robotic cat
+- [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 - [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research
 - [Open-Source Robotic Arm](https://www.hackster.io/tloinny/open-source-robotic-arm-85ea30) - Open-source robotic arm using PC with ROS, STM32, and CAN bus
 - [OpenBot](https://www.openbot.org/) - Turning Smartphones into Robots
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
-- [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 - [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
@@ -56,7 +57,6 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
 - [UMIRobot](https://mmmarinho.github.io/UMIRobot/) - A simple 3D printable robot arm with open-source hardware and software.
 - [Vine Robots](https://www.vinerobots.org/) - Soft continuum robots design with low-cost fabrication in mind and for the navigation of difficult environments.
-- [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 - [Walter](https://walter.readthedocs.io/en/latest/) - 6DOF Industrial Robot, vintage style
 
 
@@ -107,6 +107,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [CloudPeek](https://github.com/Geekgineer/CloudPeek/tree/main) - Lightweight, cross-platform, single-header C++ point cloud viewer
 - [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/lanelet2) - C++ library for handling map data in the context of automated driving
 - [mujoco-scene-editor](https://github.com/markusgrotz/mujoco-scene-editor) - Lightweight, interactive scene editor for MuJoCo scenes
+- [phntm_bridge_client](https://github.com/PhantomCybernetics/phntm_bridge_client) - Fast WebRTC + Socket.io ROS2 Bridge for real-time data and video streaming, teleoperation, HRI, and remote robot monitoring
 - [Realtime robot data visualization in the browser](https://github.com/rapyuta-robotics/zethus/)
 - [rerun.io](https://www.rerun.io/) - Open source visualization infrastructure for computer vision and robotics
 - [ROS Reality](https://github.com/h2r/ros_reality) - Connect a ROS-enabled robot to Unity
