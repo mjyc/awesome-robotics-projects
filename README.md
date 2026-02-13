@@ -26,6 +26,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Linorobot](https://linorobot.org/) - Suite of low-cost open-source mobile robots
 - [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
 - [Magni](https://ubiquityrobotics.com/) - Affordable robotic mobile base with 100kg payload
+- [Maker's Pet](https://github.com/makerspet/makerspet_loki) - Extremely low-cost open-source 3D-printed Arduino/ROS2 home pet robot
 - [MuSHR](https://mushr.io/) - Affordable, open-source robotic race car
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
 - [Nguyen Vincent's omnidirectional ROS2 robot](https://www.youtube.com/watch?v=5cuvHg3hsvY) - Making an omnidirectional ROS2 robot. No talking, no music. Just building.
@@ -55,6 +56,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [TurtleBot](https://www.turtlebot.com/) - Low-cost, personal robot kit with open-source software
 - [UMIRobot](https://mmmarinho.github.io/UMIRobot/) - A simple 3D printable robot arm with open-source hardware and software.
 - [Vine Robots](https://www.vinerobots.org/) - Soft continuum robots design with low-cost fabrication in mind and for the navigation of difficult environments.
+- [Dobb-E](https://dobb-e.com/) - Open-source, general framework for learning household robotic manipulation
 - [Walter](https://walter.readthedocs.io/en/latest/) - 6DOF Industrial Robot, vintage style
 
 
