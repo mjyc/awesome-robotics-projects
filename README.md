@@ -116,7 +116,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [URDF-Architect](https://github.com/OpenLegged/URDF-Architect) - URDF-Architect is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance.
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - code release for URDFormer
 - [web-based visualization libraries](https://github.com/cruise-automation/webviz)
-
+- [BotBrain](https://github.com/botbotrobotics/BotBrain) - BotBrain is an open-source, modular brain for ROS 2 robots that provides a web-based interface for control, mapping, autonomous navigation, and fleet management across legged and wheeled platforms.
 
 ## Simulators
 
