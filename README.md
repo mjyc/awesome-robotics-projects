@@ -95,6 +95,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [linux_isolate_process](https://github.com/adityapande-1995/linux_isolate_process)
 - [ros command](https://github.com/MetroRobots/ros_command) - Unifying the ROS command line tools
 - [ROSA](https://github.com/nasa-jpl/rosa) - The ROS Agent
+- [ros2_medkit](https://github.com/selfpatch/ros2_medkit) - Fault management and diagnostics framework for ROS 2 with REST API
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
 - [Pixi: Modern package management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 - [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz)
