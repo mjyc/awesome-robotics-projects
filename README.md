@@ -72,6 +72,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [robotemi/sdk](https://github.com/robotemi/sdk) - temi SDK
 - Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
 - [unitreerobotics/unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2
+- [plagtech/rtp-spec](https://github.com/plagtech/rtp-spec) - Robot Task Protocol — open standard and SDK for AI agents to discover and pay robots for physical tasks via HTTP micropayments. MIT license.
 
 ### Autonomous Driving
 
