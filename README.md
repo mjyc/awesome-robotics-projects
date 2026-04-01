@@ -152,6 +152,8 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [ROS Kubernetes / KubeEdge](https://github.com/fujitatomoya/ros_k8s) - Kuberenetes / ROS&ROS2 Cluster Samples
 
 
+- [ANIMA Docker ROS 2](https://github.com/RobotFlow-Labs/anima-docker-ros2) - Browser-first ROS 2 desktop with noVNC, Gazebo, and Foxglove. Complete robotics dev environment in one Docker command.
+
 ## Hardware Communities
 
 - [adafruit](https://www.adafruit.com/) - "Adafruit designs, manufactures and sells a number of electronics products, electronics components, tools and accessories."
