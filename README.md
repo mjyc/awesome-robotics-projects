@@ -211,6 +211,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Formant](https://formant.io/) - Speak Robot; Intelligent platform for robotic fleets
 - [Freedom robotics](https://www.freedomrobotics.ai/) - POWERFUL CONTROL AND MONITORING FOR ROBOTS
 - [Generalist](https://generalistai.com/)
+- [GrabaRobot](https://www.grabarobot.com/) - Compare 500+ robots across 27 categories from Chinese and global manufacturers. Free ROI calculator, pricing index, and side-by-side comparison tool.
 - [Honu Robotics](https://honurobotics.com/) - Expert partners for your next innovation
 - [InOrbit](https://www.inorbit.ai/) - MISSION CONTROL for AUTONOMOUS ROBOTS
 - [KABAM Robotics](https://kabam.ai/) - WORK MANAGEMENT SYSTEM FOR ALL YOUR ROBOTS & SMART DEVICES
