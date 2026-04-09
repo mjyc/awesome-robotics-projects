@@ -51,6 +51,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
 - [RUKA](https://ruka-hand.github.io/) - Rethinking the Design of Humanoid Hands with Learning
+- [SO-ARM100/101 Parallel Gripper](https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper) - 3D-printed parallel gripper with camera holder for SO-ARM100/SO-ARM101 robot arms, 150N force, 76mm stroke, ~$70 BOM
 - [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Open-source quadruped robot
 - [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
 - [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
