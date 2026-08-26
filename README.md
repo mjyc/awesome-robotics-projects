@@ -133,6 +133,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [MuJoCo](https://mujoco.org/) - Advanced physics simulation
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim) - Simulate, test and iterate virtual robots in a high fidelity 3D environment
 - [OmniGibson](https://github.com/StanfordVL/OmniGibson) - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
+- [OmniSim](https://github.com/omnilink-tech/omnisim) - Apache-2.0 robotics simulator for coding agents with HTTP/JSON and MCP control, native URDF import, ROS 2 interfaces, and reproducible physics benchmarks.
 - [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
 - [SimplerEnv](https://github.com/simpler-env/SimplerEnv) - Simulated Manipulation Policy Evaluation Environments for Real Robot Setups
