@@ -227,6 +227,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 - [ROSbloX](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
 - [RosHub](https://roshub.io/) - Manage one robot or entire fleets
+- [RoboPartPicker](https://robopartpicker.com/) - Open-source robotics project discovery and parts sourcing: paste a repo, get an auto-BOM with source evidence, compare observed supplier prices
 - [scale](https://scale.com/) - The Data Platform for AI
 - [SEMIO](https://semio.ai/) - bringing robots to life
 - [SLAMCore](https://www.slamcore.com/) - Spatial Intelligence for robots and machines
