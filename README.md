@@ -50,6 +50,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [RoboPrime](https://github.com/simonepri/roboprime) - Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [ROSbot 2.0](https://husarion.com/) - Open source mobile robot platform
+- [Rose Mk2](https://j4zz.eu/rose-mk2/) - Self-righting hull designed to drift river current and tidal gating unpowered from Bonn to the North Sea; CAD stage, not yet built.
 - [RUKA](https://ruka-hand.github.io/) - Rethinking the Design of Humanoid Hands with Learning
 - [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Open-source quadruped robot
 - [Thor](https://hackaday.io/project/12989-thor) - DIY 3D printable robotic arm
