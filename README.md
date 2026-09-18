@@ -69,6 +69,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) PyRobot: An Open Source Robotics Research Platform
 - [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - Minitaur SDK extension
+- [RoboSkin ROS 2 tactile starter kit](https://github.com/roboskin-ai/ros2-tactile-starter-kit) - Experimental tactile-array message contract and synthetic publisher with a [publish, record and replay tutorial](https://roboskin.ai/guides/ros2-tactile-sensing); not a hardware driver.
 - [robotemi/sdk](https://github.com/robotemi/sdk) - temi SDK
 - Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
 - [unitreerobotics/unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2
