@@ -223,6 +223,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 - [Physical Intelligence (π)](https://www.physicalintelligence.company/)
 - [Rapyuta Robotics](https://www.rapyuta-robotics.com/) - We make robots attainable and useful
 - [rethink robotics](https://www.rethinkrobotics.com/) - Rethink Robotics Meets German Engineering
+- [RoboPartPicker](https://robopartpicker.com) - Robotics project discovery and bill-of-materials compiler: compiles source-linked BOMs from open robot designs, matches lines to canonical components, and keeps unresolved lines visible. Free, no signup.
 - [Roboto](https://www.roboto.ai/) - Curating the world's robotics data
 - [ROS Development Studio](https://www.theconstructsim.com/rds-ros-development-studio/) - Develop your ROS project from a single place online
 - [ROSbloX](https://rosblox.github.io/) - Your ultimate building blocks for rapidly creating a robot's software stack.
