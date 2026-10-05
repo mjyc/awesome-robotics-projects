@@ -41,6 +41,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Open-software/hardware/embedded-board robotic arm
 - [OpenPodcar](https://github.com/OpenPodcar/OpenPodcar?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=weekly-robotics-267) - Open source hardware design and software for OpenPodcar.
 - [OpenΒionics](https://openbionics.org/) - Open-source initiative for the development of robotic and bionic devices
+- [orbit](https://github.com/seeknull/orbit) - Hackable always-on robots: a phone as face, eyes and ears on a 3D-printed servo body, with swappable vision, audio and language models
 - [Poppy Project](https://www.poppy-project.org/en/) - Open-source platform for interactive 3D printed robots
 - [PyRobot](https://www.pyrobot.org/) - Python package for running experiments in robot learning
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
