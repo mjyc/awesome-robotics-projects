@@ -68,6 +68,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Robot SDK in Rust (deterministic and high performance)  
 - [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) PyRobot: An Open Source Robotics Research Platform
+- [openAMRobot/openamrobot-release](https://github.com/openAMRobot/openamrobot-release) - Open-source dual-arm mobile manipulator for embodied AI, with ROS 2 software, firmware and open hardware
 - [resibots/minitaur_sdk](https://github.com/resibots/minitaur_sdk) - Minitaur SDK extension
 - [robotemi/sdk](https://github.com/robotemi/sdk) - temi SDK
 - Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk), [C# SDK](https://github.com/anki/cozmo-csharp-sdk), and [PyCozmo](https://github.com/zayfod/pycozmo)
