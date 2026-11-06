@@ -65,6 +65,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 ### Robots
 
 - [boston-dynamics/spot-sdk](https://github.com/boston-dynamics/spot-sdk) - Spot SDK
+- [cerulion-inc/cerulion](https://github.com/cerulion-inc/cerulion) - Robot runtime in Rust with zero-copy shared memory. 1 MiB round trip: 4.08 µs native, 11.12 µs for ROS 2 Jazzy over rmw_cerulion, 10,952 µs stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026)
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Robot SDK in Rust (deterministic and high performance)  
 - [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) - Mobile manipulation research tools for roboticists
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) PyRobot: An Open Source Robotics Research Platform
