@@ -123,6 +123,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 that are physically accurate, photo realistic, or roboticist friendly.
 
 - [AI Habitat](https://aihabitat.org/) - AI Habitat enables training of embodied AI agents in a highly photorealistic & efficient 3D simulator
+- [Alloy](https://github.com/argonrobotics-ai/alloy) - Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
 - [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research
 - [Flightmare](https://uzh-rpg.github.io/flightmare/) - A Flexible Quadrotor Simulator
 - [Gazebo](http://gazebosim.org/) - Gazebo is an open-source 3D robotics simulator
