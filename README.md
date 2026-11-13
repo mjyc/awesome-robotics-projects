@@ -2,6 +2,7 @@
 
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
+- [Ainekio](https://ainek.io/) - Affordable (<$100 BOM) 650 g 3D-printed 12-servo ESP32-P4 quadruped companion robot with 4th-wire servo feedback, on-chip RL gait, and local-first cognitive OS ([repo](https://github.com/Greg-Aster/Ainekio-bot))
 - [Animatronic Eye Mechanism](https://www.instructables.com/Animatronic-Eye-Mechanism) - Animatronic Eye Mechanism from https://nmrobots.com/
 - [ANYMal C](https://www.anybotics.com/) - Autonomous four-legged robot
 - [AWS DeepRacer](https://aws.amazon.com/deepracer/) - Autonomous 1/18th scale race car designed to test RL models
