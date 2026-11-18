@@ -30,6 +30,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [Maker's Pet](https://github.com/makerspet/makerspet_loki) - Extremely low-cost open-source 3D-printed Arduino/ROS2 home pet robot
 - [MuSHR](https://mushr.io/) - Affordable, open-source robotic race car
 - [NanoSaur](https://nanosaur.ai/) - NVIDIA Jetson dinosaur robot, fully 3D printable, ROS2 competible
+- [Newton VLA demo](https://github.com/Hollis36/newton-vla-demo) - Classroom embodied-AI demo: talk to a robot arm, throw it a ball, topple a tower; [playable in the browser](https://huggingface.co/spaces/phamduckhanh/newton-vla-demo)
 - [Nguyen Vincent's omnidirectional ROS2 robot](https://www.youtube.com/watch?v=5cuvHg3hsvY) - Making an omnidirectional ROS2 robot. No talking, no music. Just building.
 - [Niryo One](https://niryo.com/) - 3D printed 6 axis robotic arm
 - [NVIDIA ISSAC PLATFORM](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/) - Robotic AI Development Platform with Simulation, Navigation and Manipulation
