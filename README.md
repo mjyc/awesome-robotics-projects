@@ -98,6 +98,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 - [ROSBoard](https://github.com/MerdanBay/rosboard) - ROS node that runs a web server on your robot.
 - [Pixi: Modern package management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 - [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz)
+- [leCop](https://github.com/michele-xilo/leCop) - Fast health checker for LeRobot datasets: finds broken episodes, timestamp drift and video/metadata mismatches without decoding video
 
 
 ## Data Visualization & UI
