@@ -143,6 +143,7 @@ that are physically accurate, photo realistic, or roboticist friendly.
 
 ## Dataset
 
+- [humanoidrecord.com](https://humanoidrecord.com/) Open dataset (CC BY 4.0) of humanoid robots: per capability whether it is claimed, independently demonstrated, or shipped to a named customer, with a source and date for every value
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles) PhysicalAI Autonomous Vehicles
 - [YCB Benchmarks – Object and Model Set](https://www.ycbbenchmarks.com/) YCB Benchmarks – Object and Model Set
 
